@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;
-<a href="tel:+919032195677">
+<a href="tel:+91xxxxxx5677">
   <img src="https://img.shields.io/badge/Phone-0A101F?style=for-the-badge&logo=whatsapp&logoColor=A78BFA&labelColor=0A101F" alt="Phone" />
 </a>
 
