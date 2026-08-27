@@ -1,5 +1,80 @@
 [
   {
+    "name": "Crop Recommendations AI",
+    "repo": "Shaik6184/crop-recomedations",
+    "logo": "crop.png",
+    "description": "Machine learning system for intelligent crop recommendation based on soil and climate factors",
+    "tags": [
+      "Python",
+      "Jupyter",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "stars": 12,
+    "pushed_at": "2026-08-26T10:15:00Z",
+    "languages": {
+      "Jupyter Notebook": 78000,
+      "Python": 22000
+    }
+  },
+  {
+    "name": "FoodOrderWeb",
+    "repo": "Shaik6184/FoodOrderWeb",
+    "logo": "food.png",
+    "description": "Full-stack online food ordering application with cart, menu browsing & order tracking",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Node.js"
+    ],
+    "stars": 8,
+    "pushed_at": "2026-08-25T14:30:00Z",
+    "languages": {
+      "JavaScript": 56000,
+      "HTML": 24000,
+      "CSS": 18000
+    }
+  },
+  {
+    "name": "Placement Management System",
+    "repo": "Shaik6184/placement-management-system",
+    "logo": "placement.png",
+    "description": "Comprehensive student placement management portal for college recruitment drives",
+    "tags": [
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "Bootstrap"
+    ],
+    "stars": 14,
+    "pushed_at": "2026-08-24T18:00:00Z",
+    "languages": {
+      "PHP": 68000,
+      "JavaScript": 18000,
+      "CSS": 14000
+    }
+  },
+  {
+    "name": "Azure Cloud Website",
+    "repo": "Shaik6184/Azure-website",
+    "logo": "azure.png",
+    "description": "Cloud-native web application deployed and monitored on Microsoft Azure cloud infrastructure",
+    "tags": [
+      "JavaScript",
+      "Azure",
+      "Cloud",
+      "HTML5"
+    ],
+    "stars": 10,
+    "pushed_at": "2026-08-23T11:45:00Z",
+    "languages": {
+      "JavaScript": 52000,
+      "HTML": 30000,
+      "CSS": 15000
+    }
+  },
+  {
     "name": "ShoppyGlobe E-Commerce",
     "repo": "Shaik6184/ShoppyGlobe-Ecommerce",
     "logo": "shoppyglobe.png",
@@ -36,81 +111,6 @@
       "JavaScript": 54000,
       "CSS": 16000,
       "HTML": 6000
-    }
-  },
-  {
-    "name": "Erodha Trading Platform",
-    "repo": "Shaik6184/Erodha-Trading-Platform",
-    "logo": "trading.png",
-    "description": "Real-time financial asset tracking, WebSocket streaming, and interactive charting dashboard",
-    "tags": [
-      "Python",
-      "React.js",
-      "WebSockets",
-      "Chart.js"
-    ],
-    "stars": 15,
-    "pushed_at": "2026-08-15T18:40:00Z",
-    "languages": {
-      "Python": 62000,
-      "JavaScript": 28000,
-      "CSS": 10000
-    }
-  },
-  {
-    "name": "AI Smart Life Jacket (IoT)",
-    "repo": "Shaik6184/AI-Smart-Life-Jacket",
-    "logo": "lifejacket.png",
-    "description": "IoT + ML powered safety device with automatic fall detection, GPS alerts & live telemetry",
-    "tags": [
-      "Python",
-      "Machine Learning",
-      "ESP32",
-      "IoT"
-    ],
-    "stars": 32,
-    "pushed_at": "2026-08-10T11:20:00Z",
-    "languages": {
-      "Python": 75000,
-      "C++": 35000
-    }
-  },
-  {
-    "name": "YouTube Video Streaming Clone",
-    "repo": "Shaik6184/YouTube-Clone-Platform",
-    "logo": "youtube.png",
-    "description": "Full-featured video streaming hub with uploads, playlists, subscriptions & recommendations",
-    "tags": [
-      "React.js",
-      "Node.js",
-      "MongoDB",
-      "TailwindCSS"
-    ],
-    "stars": 21,
-    "pushed_at": "2026-08-18T16:05:00Z",
-    "languages": {
-      "JavaScript": 58000,
-      "CSS": 18000,
-      "HTML": 7000
-    }
-  },
-  {
-    "name": "Multivendor Marketplace",
-    "repo": "Shaik6184/Multivendor-Marketplace",
-    "logo": "marketplace.png",
-    "description": "Scalable multi-tenant marketplace platform with seller dashboards and payment gateway integration",
-    "tags": [
-      "React.js",
-      "Node.js",
-      "MongoDB",
-      "Razorpay"
-    ],
-    "stars": 27,
-    "pushed_at": "2026-08-25T12:00:00Z",
-    "languages": {
-      "JavaScript": 64000,
-      "CSS": 20000,
-      "HTML": 9000
     }
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "name": "Crop Recommendations AI",
+    "repo": "Shaik6184/crop-recomedations",
+    "logo": "crop.png",
+    "description": "Machine learning system for intelligent crop recommendation based on soil and climate factors",
+    "tags": [
+      "Python",
+      "Jupyter",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "FoodOrderWeb",
+    "repo": "Shaik6184/FoodOrderWeb",
+    "logo": "food.png",
+    "description": "Full-stack online food ordering application with cart, menu browsing & order tracking",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Placement Management System",
+    "repo": "Shaik6184/placement-management-system",
+    "logo": "placement.png",
+    "description": "Comprehensive student placement management portal for college recruitment drives",
+    "tags": [
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "Azure Cloud Website",
+    "repo": "Shaik6184/Azure-website",
+    "logo": "azure.png",
+    "description": "Cloud-native web application deployed and monitored on Microsoft Azure cloud infrastructure",
+    "tags": [
+      "JavaScript",
+      "Azure",
+      "Cloud",
+      "HTML5"
+    ]
+  },
+  {
     "name": "ShoppyGlobe E-Commerce",
     "repo": "Shaik6184/ShoppyGlobe-Ecommerce",
     "logo": "shoppyglobe.png",
@@ -21,54 +69,6 @@
       "WebRTC",
       "Socket.IO",
       "Node.js"
-    ]
-  },
-  {
-    "name": "Erodha Trading Platform",
-    "repo": "Shaik6184/Erodha-Trading-Platform",
-    "logo": "trading.png",
-    "description": "Real-time financial asset tracking, WebSocket streaming, and interactive charting dashboard",
-    "tags": [
-      "Python",
-      "React.js",
-      "WebSockets",
-      "Chart.js"
-    ]
-  },
-  {
-    "name": "AI Smart Life Jacket (IoT)",
-    "repo": "Shaik6184/AI-Smart-Life-Jacket",
-    "logo": "lifejacket.png",
-    "description": "IoT + ML powered safety device with automatic fall detection, GPS alerts & live telemetry",
-    "tags": [
-      "Python",
-      "Machine Learning",
-      "ESP32",
-      "IoT"
-    ]
-  },
-  {
-    "name": "YouTube Video Streaming Clone",
-    "repo": "Shaik6184/YouTube-Clone-Platform",
-    "logo": "youtube.png",
-    "description": "Full-featured video streaming hub with uploads, playlists, subscriptions & recommendations",
-    "tags": [
-      "React.js",
-      "Node.js",
-      "MongoDB",
-      "TailwindCSS"
-    ]
-  },
-  {
-    "name": "Multivendor Marketplace",
-    "repo": "Shaik6184/Multivendor-Marketplace",
-    "logo": "marketplace.png",
-    "description": "Scalable multi-tenant marketplace platform with seller dashboards and payment gateway integration",
-    "tags": [
-      "React.js",
-      "Node.js",
-      "MongoDB",
-      "Razorpay"
     ]
   }
 ]

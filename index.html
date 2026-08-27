@@ -142,6 +142,11 @@
     </div>
 
     <div class="preview-section">
+      <div class="preview-title">CONTRIBUTION SNAKE GAME (snake-dark.svg)</div>
+      <img id="snake-game" class="showcase-svg" src="snake-dark.svg" alt="Snake Eating Contributions">
+    </div>
+
+    <div class="preview-section">
       <div class="preview-title">GENERATED PROJECTS PANEL (projects.svg)</div>
       <img id="projects-panel" class="showcase-svg" src="projects.svg" alt="Projects Showcase Panel">
     </div>
@@ -164,6 +169,7 @@
       document.body.classList.toggle('light-theme', !isDark);
       document.getElementById('hero-banner').src = isDark ? 'dark.svg' : 'light.svg';
       document.getElementById('projects-panel').src = isDark ? 'projects.svg' : 'projects-light.svg';
+      document.getElementById('snake-game').src = isDark ? 'snake-dark.svg' : 'snake-light.svg';
     }
   </script>
 </body>
