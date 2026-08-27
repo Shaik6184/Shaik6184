@@ -1,0 +1,116 @@
+[
+  {
+    "name": "ShoppyGlobe E-Commerce",
+    "repo": "Shaik6184/ShoppyGlobe-Ecommerce",
+    "logo": "shoppyglobe.png",
+    "description": "Full-stack scalable e-commerce store with cart, JWT auth & RESTful backend APIs",
+    "tags": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "stars": 18,
+    "pushed_at": "2026-08-20T14:32:00Z",
+    "languages": {
+      "JavaScript": 48000,
+      "React": 32000,
+      "HTML": 8000,
+      "CSS": 12000
+    }
+  },
+  {
+    "name": "Video Calling & Social Chat",
+    "repo": "Shaik6184/MERN-Video-Calling-Chat-App",
+    "logo": "videocall.png",
+    "description": "Real-time multi-user video conferencing and messaging platform using WebRTC & Socket.io",
+    "tags": [
+      "React.js",
+      "WebRTC",
+      "Socket.IO",
+      "Node.js"
+    ],
+    "stars": 24,
+    "pushed_at": "2026-08-22T09:15:00Z",
+    "languages": {
+      "JavaScript": 54000,
+      "CSS": 16000,
+      "HTML": 6000
+    }
+  },
+  {
+    "name": "Erodha Trading Platform",
+    "repo": "Shaik6184/Erodha-Trading-Platform",
+    "logo": "trading.png",
+    "description": "Real-time financial asset tracking, WebSocket streaming, and interactive charting dashboard",
+    "tags": [
+      "Python",
+      "React.js",
+      "WebSockets",
+      "Chart.js"
+    ],
+    "stars": 15,
+    "pushed_at": "2026-08-15T18:40:00Z",
+    "languages": {
+      "Python": 62000,
+      "JavaScript": 28000,
+      "CSS": 10000
+    }
+  },
+  {
+    "name": "AI Smart Life Jacket (IoT)",
+    "repo": "Shaik6184/AI-Smart-Life-Jacket",
+    "logo": "lifejacket.png",
+    "description": "IoT + ML powered safety device with automatic fall detection, GPS alerts & live telemetry",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "ESP32",
+      "IoT"
+    ],
+    "stars": 32,
+    "pushed_at": "2026-08-10T11:20:00Z",
+    "languages": {
+      "Python": 75000,
+      "C++": 35000
+    }
+  },
+  {
+    "name": "YouTube Video Streaming Clone",
+    "repo": "Shaik6184/YouTube-Clone-Platform",
+    "logo": "youtube.png",
+    "description": "Full-featured video streaming hub with uploads, playlists, subscriptions & recommendations",
+    "tags": [
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "TailwindCSS"
+    ],
+    "stars": 21,
+    "pushed_at": "2026-08-18T16:05:00Z",
+    "languages": {
+      "JavaScript": 58000,
+      "CSS": 18000,
+      "HTML": 7000
+    }
+  },
+  {
+    "name": "Multivendor Marketplace",
+    "repo": "Shaik6184/Multivendor-Marketplace",
+    "logo": "marketplace.png",
+    "description": "Scalable multi-tenant marketplace platform with seller dashboards and payment gateway integration",
+    "tags": [
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Razorpay"
+    ],
+    "stars": 27,
+    "pushed_at": "2026-08-25T12:00:00Z",
+    "languages": {
+      "JavaScript": 64000,
+      "CSS": 20000,
+      "HTML": 9000
+    }
+  }
+]
